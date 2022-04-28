@@ -1,0 +1,1 @@
+x=msgbox("Welcome to Lream Cool Console" ,4096,"bruhAPI")
